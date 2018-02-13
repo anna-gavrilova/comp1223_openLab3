@@ -1,0 +1,19 @@
+header{
+//border:1px solid black;
+    text-align: center;
+}
+
+img{
+//border: 1px solid black;
+}
+main{
+    text-align: center;
+    width:70%;
+    margin: auto;
+}
+ol,ul{
+    width: 20%;
+    margin: auto;
+//display: inline-block;
+
+}
